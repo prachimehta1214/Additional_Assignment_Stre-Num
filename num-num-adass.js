@@ -1,5 +1,3 @@
-debugger;
-
 let num_1 = 1;
 let num_num;
 { //num_1 += 1;
